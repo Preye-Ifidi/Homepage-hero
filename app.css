@@ -127,6 +127,12 @@ footer p {
   padding-bottom: 30px;
 }
 
+.contact-section {
+  font-size: 64px;
+  padding-top: 140px;
+  padding-bottom: 40px;
+}
+
 .labels h5 {
   font-family: var(--heading-font-family);
   font-size: 24px;
@@ -138,14 +144,16 @@ footer p {
   font-weight: normal;
 }
 
-.inquiry h3 {
+.work-inquiry {
   font-size: 48px;
   font-family: var(--default-font-family);
 }
 
-.inquiry p {
+.inquiry-p {
   font-family: var(--heading-font-family);
   font-size: 18px;
+  color: #272142;
+  opacity: 70%;
 }
 
 .talk {
