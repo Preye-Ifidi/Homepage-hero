@@ -129,7 +129,7 @@ footer p {
 
 .contact-section {
   font-size: 64px;
-  padding-top: 140px;
+  padding-top: 120px;
   padding-bottom: 40px;
 }
 
@@ -160,6 +160,15 @@ footer p {
   font-family: var(--heading-font-family);
   font-size: 12px;
   font-weight: 100;
+}
+
+.active {
+  color: var(--branding-color) !important;
+}
+
+.nav-item {
+  padding: 0 20px;
+  line-height: 14px;
 }
 
 @media (max-width: 576px) {
